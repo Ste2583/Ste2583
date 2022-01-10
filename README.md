@@ -1,9 +1,8 @@
-## Olá! Sou a Stephany Drielle e estou aprendendo programação 👋
+## Olá! Sou a Stephany Drielle 🙂
 
 - 🔭 Trabalho como Aux. Adm.
 - 😊 Em busca da primeira vaga na área de tecnologia 
 - 🌱 Estudando C# e .NET
-- 😄 Pronomes: ela/dela
 
 <div align="center">
   <a href="https://github.com/Ste2583">
