@@ -2,7 +2,7 @@
 
 - 🔭 Trabalho como Aux. Adm.
 - 😊 Em busca da primeira vaga na área de tecnologia 
-- 🌱 Estudando C# e .NET
+- 🌱 Estudando JavaScript
 
 <div align="center">
   <a href="https://github.com/Ste2583">
